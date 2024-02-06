@@ -4,5 +4,4 @@
 node_modules
 core/**/node_modules
 utils/**/node_modules
-core/**/package-lock.json
-utils/**/package-lock.json
+lerna-debug.log
