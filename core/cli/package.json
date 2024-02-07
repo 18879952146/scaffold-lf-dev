@@ -1,6 +1,6 @@
 {
 	"name": "@scaffold-lf/core",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "scaffold-lf-dev core",
 	"author": "18879952146 <56945550+18879952146@users.noreply.github.com>",
 	"homepage": "",
@@ -23,9 +23,9 @@
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
 	"dependencies": {
-		"@scaffold-lf/get-npm-info": "^1.0.1",
-		"@scaffold-lf/log": "^1.0.1",
-		"@scaffold-lf/utils": "^1.0.1",
+		"@scaffold-lf/get-npm-info": "^1.0.2",
+		"@scaffold-lf/log": "^1.0.2",
+		"@scaffold-lf/utils": "^1.0.2",
 		"colors": "^1.4.0",
 		"dotenv": "^16.4.1",
 		"import-local": "^3.1.0",
