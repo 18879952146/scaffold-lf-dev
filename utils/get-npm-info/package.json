@@ -1,6 +1,6 @@
 {
 	"name": "@scaffold-lf/get-npm-info",
-	"version": "1.0.1",
+	"version": "1.0.0",
 	"description": "scaffold-lf-dev get-npm-info",
 	"author": "18879952146 <56945550+18879952146@users.noreply.github.com>",
 	"homepage": "https://github.com/18879952146/scaffold-lf-dev#readme",
@@ -22,6 +22,9 @@
 	},
 	"bugs": {
 		"url": "https://github.com/18879952146/scaffold-lf-dev/issues"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"dependencies": {
 		"axios": "^1.6.7",
