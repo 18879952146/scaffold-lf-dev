@@ -1,13 +1,13 @@
 {
-	"name": "@scaffold-lf/core",
+	"name": "@scaffold-lf/log",
 	"version": "0.0.2",
-	"description": "scaffold-lf-dev core",
+	"description": "scaffold-lf-dev log",
+	"keywords": [
+		"log"
+	],
 	"author": "18879952146 <56945550+18879952146@users.noreply.github.com>",
-	"homepage": "",
+	"homepage": "https://github.com/18879952146/scaffold-lf-dev#readme",
 	"license": "ISC",
-	"bin": {
-		"scaffold-lf-dev": "bin/index.js"
-	},
 	"main": "lib/index.js",
 	"directories": {
 		"lib": "lib",
@@ -19,12 +19,17 @@
 	"publishConfig": {
 		"access": "public"
 	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/18879952146/scaffold-lf-dev.git"
+	},
 	"scripts": {
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
+	"bugs": {
+		"url": "https://github.com/18879952146/scaffold-lf-dev/issues"
+	},
 	"dependencies": {
-		"@scaffold-lf/utils": "file:../../utils/utils",
-		"import-local": "^3.1.0",
 		"npmlog": "^7.0.1"
 	}
 }

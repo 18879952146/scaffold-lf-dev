@@ -2,6 +2,6 @@
 
 const core = require('..');
 
-describe('@scaffold-lf/core', () => {
+describe('@scaffold-lf/cli', () => {
     it('needs tests');
 });
