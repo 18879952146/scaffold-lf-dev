@@ -1,10 +1,7 @@
 {
 	"name": "@scaffold-lf/get-npm-info",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"description": "scaffold-lf-dev get-npm-info",
-	"keywords": [
-		"get-npm-info"
-	],
 	"author": "18879952146 <56945550+18879952146@users.noreply.github.com>",
 	"homepage": "https://github.com/18879952146/scaffold-lf-dev#readme",
 	"license": "ISC",
