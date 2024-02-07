@@ -1,6 +1,6 @@
 {
   "name": "@scaffold-lf/utils",
-  "version": "0.0.4",
+  "version": "0.0.2",
   "description": "scaffold-lf-dev utils",
   "author": "18879952146 <56945550+18879952146@users.noreply.github.com>",
   "homepage": "",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "5752e0b01836bd79ff83c5320089c00801a3bdee"
+  "gitHead": "d4b3117aed0ef30d9a4e11f377765925ff5df8e1"
 }

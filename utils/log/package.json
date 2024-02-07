@@ -1,6 +1,6 @@
 {
 	"name": "@scaffold-lf/log",
-	"version": "0.0.4",
+	"version": "0.0.2",
 	"description": "scaffold-lf-dev log",
 	"keywords": [
 		"log"
@@ -32,5 +32,5 @@
 	"dependencies": {
 		"npmlog": "^7.0.1"
 	},
-	"gitHead": "5752e0b01836bd79ff83c5320089c00801a3bdee"
+	"gitHead": "d4b3117aed0ef30d9a4e11f377765925ff5df8e1"
 }

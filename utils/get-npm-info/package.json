@@ -1,6 +1,6 @@
 {
 	"name": "@scaffold-lf/get-npm-info",
-	"version": "0.0.4",
+	"version": "0.0.2",
 	"description": "scaffold-lf-dev get-npm-info",
 	"keywords": [
 		"get-npm-info"
@@ -31,5 +31,5 @@
 		"semver": "^7.6.0",
 		"url-join": "^4.0.1"
 	},
-	"gitHead": "5752e0b01836bd79ff83c5320089c00801a3bdee"
+	"gitHead": "d4b3117aed0ef30d9a4e11f377765925ff5df8e1"
 }
