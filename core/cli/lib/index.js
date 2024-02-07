@@ -1,5 +1,7 @@
 "use strict";
+
 module.exports = core;
+
 let args;
 const path = require("path");
 const userHome = require("user-home");

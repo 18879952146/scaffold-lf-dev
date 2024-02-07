@@ -1,6 +1,6 @@
 {
 	"name": "@scaffold-lf/core",
-	"version": "0.0.3",
+	"version": "0.0.2",
 	"description": "scaffold-lf-dev core",
 	"author": "18879952146 <56945550+18879952146@users.noreply.github.com>",
 	"homepage": "",
@@ -34,5 +34,6 @@
 		"root-check": "^1.0.0",
 		"semver": "^7.6.0",
 		"user-home": "^3.0.0"
-	}
+	},
+	"gitHead": "5752e0b01836bd79ff83c5320089c00801a3bdee"
 }
