@@ -23,9 +23,9 @@
 		"test": "echo \"Error: run tests from root\" && exit 1"
 	},
 	"dependencies": {
-		"@scaffold-lf/get-npm-info": "file:../../utils/get-npm-info",
-		"@scaffold-lf/log": "file:../../utils/log",
-		"@scaffold-lf/utils": "file:../../utils/utils",
+		"@scaffold-lf/get-npm-info": "^1.0.1",
+		"@scaffold-lf/log": "^1.0.1",
+		"@scaffold-lf/utils": "^1.0.1",
 		"colors": "^1.4.0",
 		"dotenv": "^16.4.1",
 		"import-local": "^3.1.0",
@@ -35,5 +35,5 @@
 		"semver": "^7.6.0",
 		"user-home": "^3.0.0"
 	},
-	"gitHead": "5752e0b01836bd79ff83c5320089c00801a3bdee"
+	"gitHead": "60c952b1564112a52434ab7634daab375fc59b6d"
 }
